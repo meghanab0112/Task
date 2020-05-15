@@ -1,0 +1,4 @@
+My skills in OSADM
+-Java
+-angular
+-spring 
